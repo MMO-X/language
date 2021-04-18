@@ -53,7 +53,9 @@
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
 		"item.auctionhouse.lore.owner": "§r§eSeller: §7{0}§r",
 		"item.auctionhouse.lore.lastBid": "§r§eLast bidder: §7{0}§r",
-		"item.auctionhouse.lore.expire": "§r§eExpires at §a{0}",
+		"item.auctionhouse.lore.expire.timestamp": "§r§eExpires at §a{0}",
+		"item.auctionhouse.lore.expire.left": "§r§d{0} left",
+		"item.auctionhouse.lore.price": "§r§ePrice: §a{CURRENCY}{0}",
 
 		"gender.male": "Male",
 		"gender.female": "Female",
