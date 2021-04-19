@@ -1,8 +1,8 @@
 ---
 name: Language key/s fix
 about: If a languge key/s are not correct or seems sus.
-title: "[Fix]"
-labels: bug
+title: ""
+labels: imposter
 assignees: ''
 
 ---
