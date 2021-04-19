@@ -4,5 +4,93 @@
 	"prefix": "§9MMOX §8> §7",
 	"currency": " EUR",
 
-	"values": {}
+	{
+	"name": "Deutsch",
+	"locale": "deu",
+	"prefix": "§9MMOX §8> §7",
+	"currency": " EUR",
+
+	"values": {
+		"close": "§r§cSchließen§r",
+		"back": "§r§cZurück§r",
+
+		"rarity.common": "Common",
+		"rarity.uncommon": "Uncommon",
+		"rarity.rare": "Rare",
+		"rarity.epic": "Epic",
+		"rarity.mythic": "Mythic",
+		"rarity.legendary": "Legendary",
+		"rarity.special": "Special",
+
+		"gui.auctionhouse.title": "Auktions Haus",
+		"gui.auctionhouse.browser.title": "Auktion Browser",
+
+		"item.start": "§2Start",
+		"item.back": "§2Zurück",
+		"item.next": "§2Weiter",
+		"item.end": "§2Ende",
+		"item.info": "§e--- §9{0}§7/§9{1} §e---",
+		"item.goToPage": "§r§bGehe zu §d{0}",
+
+		"item.auctionhouse.browser": "Auktion Browser",
+		"item.auctionhouse.view": "Angucken",
+		"item.auctionhouse.create": "Auktion erstellen",
+		"item.auctionhouse.history": "Verlauf",
+		"item.auctionhouse.view.bids": "Gebote einsehen",
+		"item.auctionhouse.view.ended": "Items einsehen",
+		"item.auctionhouse.view.ended.collectAll": "§r§9Alles einsammeln",
+
+		"item.auctionhouse.category.weapons": "§r§dWaffen",
+		"item.auctionhouse.category.consumable": "§r§dKonsumierbar",
+		"item.auctionhouse.category.blocks": "§r§dBlöckr",
+
+		"item.auctionhouse.filter.format": "   {0}{1}",
+		"item.auctionhouse.filter.format.selected": "§e§l»§r§f {0}{1}",
+		"item.auctionhouse.filter.rarity": "Filter rarity",
+		"item.auctionhouse.filter.rarity.all": "All rarities",
+		"item.auctionhouse.filter.sort.none": "None",
+		"item.auctionhouse.filter.sort.expireSoon": "Expire soon",
+		"item.auctionhouse.filter.query": "§r§eSearch",
+		"item.auctionhouse.filter.query.args": "§r§eSuche: §f\"§a{0}§f\"§r",
+		"item.auctionhouse.create.duration": "§r§bAblaufdatum",
+		"item.auctionhouse.create.startprice": "§r§bStart Gebot",
+		"item.auctionhouse.create.create": "§r§bAuktion erstellen",
+
+		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
+		"item.auctionhouse.lore.owner": "§r§eSeller: §7{0}§r",
+		"item.auctionhouse.lore.lastBid": "§r§eLast bidder: §7{0}§r",
+		"item.auctionhouse.lore.expire": "§r§eExpires at §a{0}",
+
+		"gender.male": "Male",
+		"gender.female": "Female",
+
+		"race.human": "Human",
+		"race.elf": "Elf",
+		"race.demon": "Demon",
+		"race.dragon": "Dragon",
+
+		"race.sub.demon.succubus": "Succubus",
+		"race.sub.elf.nature": "Nature Elf",
+		"race.sub.elf.dark": "Dark Elf",
+		"race.sub.elf.light": "Light Elf",
+
+		"item.menu": "§dMenu",
+
+		"history.auction.created": "[{0}][Created auction]: §d{1}x {4}{2}§7 for §e{3}{CURRENCY}§r",
+		"history.auction.bid": "[{0}][Bid]: §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§r",
+		"history.auction.ended.bought": "[{0}][Auction won]: §7Bought, §d{4}{1}x {2}§7 for §e{0}§r",
+		"history.auction.ended.bought.nobody": "[{0}][Auction ended]: §eNobody bought§7, §d{1}x {2}§7 for §e{3}§r",
+		"history.auction.ended.bought.player": "[{0}][Auction ended]: §e{0} bought§7, §d{1}x {2}§7 for §e{3}§r",
+
+		"message.auctionhouse.auction.created": "{ARROW_DARK_AQUA} Auction created §d{0}x {3}{1}§7 for §e{2}",
+		"message.auctionhouse.auction.ended": "{ARROW_DARK_AQUA} Auction(§d{4}{0}x {1}§7) ended §d{0}x {1}§7 for §e{2}",
+		"message.auctionhouse.bid.other": "{ARROW_DARK_AQUA} §e{0}§r§7 bid §e{1}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
+		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eYou bid §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
+		"message.skillLeveledUp": "{ANNOUNCE} {0} leveled up to {1}",
+		"message.globalmute.muted": "{ANNOUNCE} §eGlobal-Mute §7- §aenabled",
+		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobal-Mute §7- §cdisabled",
+
+		"ui.title.selectPage": "Select Page",
+		"ui.elements.selectPage.nextPage": "Next page"
+	}
 }
