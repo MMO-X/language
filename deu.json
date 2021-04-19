@@ -3,6 +3,7 @@
 	"locale": "deu",
 	"prefix": "§9MMOX §8> §7",
 	"currency": " EUR",
+	"contributors": ["JibixYT"],
 
 	"values": {
 		"close": "§r§cSchließen§r",
