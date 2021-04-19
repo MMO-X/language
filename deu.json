@@ -4,12 +4,6 @@
 	"prefix": "§9MMOX §8> §7",
 	"currency": " EUR",
 
-	{
-	"name": "Deutsch",
-	"locale": "deu",
-	"prefix": "§9MMOX §8> §7",
-	"currency": " EUR",
-
 	"values": {
 		"close": "§r§cSchließen§r",
 		"back": "§r§cZurück§r",
