@@ -7,14 +7,16 @@ assignees: ''
 
 ---
 
+## Affected language
+eng
+
+
 ## Affected language key/s
-<!--
  * gender.male
--->
+
 
 ## Correct language value/s
-<!--
  * Male
--->
+
 
 ## [OPTIONAL] Comment
