@@ -57,40 +57,40 @@
 		"item.auctionhouse.create.create": "§r§bAuktion erstellen",
 
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
-		"item.auctionhouse.lore.owner": "§r§eSeller: §7{0}§r",
-		"item.auctionhouse.lore.lastBid": "§r§eLast bidder: §7{0}§r",
-		"item.auctionhouse.lore.expire": "§r§eExpires at §a{0}",
+		"item.auctionhouse.lore.owner": "§r§eVerkäufer: §7{0}§r",
+		"item.auctionhouse.lore.lastBid": "§r§eLetztes Gebot: §7{0}§r",
+		"item.auctionhouse.lore.expire": "§r§eEndet in §a{0}",
 
-		"gender.male": "Male",
-		"gender.female": "Female",
+		"gender.male": "Männlich",
+		"gender.female": "Weiblicj",
 
-		"race.human": "Human",
+		"race.human": "Mensch",
 		"race.elf": "Elf",
 		"race.demon": "Demon",
-		"race.dragon": "Dragon",
+		"race.dragon": "Drache",
 
 		"race.sub.demon.succubus": "Succubus",
-		"race.sub.elf.nature": "Nature Elf",
-		"race.sub.elf.dark": "Dark Elf",
-		"race.sub.elf.light": "Light Elf",
+		"race.sub.elf.nature": "Natur Elf",
+		"race.sub.elf.dark": "Dunkler Elf",
+		"race.sub.elf.light": "Licht Elf",
 
-		"item.menu": "§dMenu",
+		"item.menu": "§dMenü",
 
-		"history.auction.created": "[{0}][Created auction]: §d{1}x {4}{2}§7 for §e{3}{CURRENCY}§r",
-		"history.auction.bid": "[{0}][Bid]: §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§r",
-		"history.auction.ended.bought": "[{0}][Auction won]: §7Bought, §d{4}{1}x {2}§7 for §e{0}§r",
-		"history.auction.ended.bought.nobody": "[{0}][Auction ended]: §eNobody bought§7, §d{1}x {2}§7 for §e{3}§r",
-		"history.auction.ended.bought.player": "[{0}][Auction ended]: §e{0} bought§7, §d{1}x {2}§7 for §e{3}§r",
+		"history.auction.created": "[{0}][Erstellte Auktion]: §d{1}x {4}{2}§7 für §e{3}{CURRENCY}§r",
+		"history.auction.bid": "[{0}][Gebote]: §e{0}{CURRENCY}§r§7 am §d{4}{7}x {2}§r",
+		"history.auction.ended.bought": "[{0}][Auktion gewonnen]: §7Gekauft, §d{4}{1}x {2}§7 für §e{0}§r",
+		"history.auction.ended.bought.nobody": "[{0}][Auktion beendet]: §eNobody bought§7, §d{1}x {2}§7 für §e{3}§r",
+		"history.auction.ended.bought.player": "[{0}][Auktion beendet]: §e{0} gekauft§7, §d{1}x {2}§7 für §e{3}§r",
 
-		"message.auctionhouse.auction.created": "{ARROW_DARK_AQUA} Auction created §d{0}x {3}{1}§7 for §e{2}",
-		"message.auctionhouse.auction.ended": "{ARROW_DARK_AQUA} Auction(§d{4}{0}x {1}§7) ended §d{0}x {1}§7 for §e{2}",
-		"message.auctionhouse.bid.other": "{ARROW_DARK_AQUA} §e{0}§r§7 bid §e{1}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
-		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eYou bid §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
-		"message.skillLeveledUp": "{ANNOUNCE} {0} leveled up to {1}",
-		"message.globalmute.muted": "{ANNOUNCE} §eGlobal-Mute §7- §aenabled",
-		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobal-Mute §7- §cdisabled",
+		"message.auctionhouse.auction.created": "{ARROW_DARK_AQUA} Auktion erstellt §d{0}x {3}{1}§7 für §e{2}",
+		"message.auctionhouse.auction.ended": "{ARROW_DARK_AQUA} Auktion(§d{4}{0}x {1}§7) beendet §d{0}x {1}§7 für §e{2}",
+		"message.auctionhouse.bid.other": "{ARROW_DARK_AQUA} §e{0}§r§7 bietet §e{1}{CURRENCY}§r§7 am §d{4}{7}x {2}§7.",
+		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eDu bietest §e{0}{CURRENCY}§r§7 am §d{4}{7}x {2}§7.",
+		"message.skillLeveledUp": "{ANNOUNCE} {0} hochgelevelt auf {1}",
+		"message.globalmute.muted": "{ANNOUNCE} §eGlobaler-Mute §7- §aaktiviert",
+		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobaler-Mute §7- §cdeaktiviert",
 
-		"ui.title.selectPage": "Select Page",
-		"ui.elements.selectPage.nextPage": "Next page"
+		"ui.title.selectPage": "Seite auswählen",
+		"ui.elements.selectPage.nextPage": "Nächste Seite"
 	}
 }
