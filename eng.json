@@ -2,7 +2,8 @@
 	"name": "Englisch",
 	"locale": "eng",
 	"prefix": "§9MMOX §8> §7",
-	"currency": " $",
+	"currency": "$",
+	"contributors": ["xxAROX"],
 
 	"values": {
 		"close": "§r§cClose§r",
