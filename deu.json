@@ -59,6 +59,19 @@
 		"gender.male": "Männlich",
 		"gender.female": "Weiblich",
 
+		"season.spring": "Spring",
+		/*TODO*/
+		"season.spring.symbol": "",
+		"season.summer": "Summer",
+		/*TODO*/
+		"season.summer.symbol": "☀",
+		"season.autumn": "Autumn",
+		/*TODO*/
+		"season.autumn.symbol": "🍁",
+		"season.winter": "Winter",
+		/*TODO*/
+		"season.winter.symbol": "❄",
+
 		"race.human": "Mensch",
 		"race.elf": "Elf",
 		"race.demon": "Demon",
