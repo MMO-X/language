@@ -60,6 +60,15 @@
 		"gender.male": "Male",
 		"gender.female": "Female",
 
+		"season.spring": "Spring",
+		"season.spring.symbol": "",
+		"season.summer": "Summer",
+		"season.summer.symbol": "☀",
+		"season.autumn": "Autumn",
+		"season.autumn.symbol": "🍁",
+		"season.winter": "Winter",
+		"season.winter.symbol": "❄",
+
 		"race.human": "Human",
 		"race.elf": "Elf",
 		"race.demon": "Demon",
