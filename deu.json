@@ -51,6 +51,13 @@
 		"item.auctionhouse.create.startprice": "§r§bStart Gebot",
 		"item.auctionhouse.create.create": "§r§bAuktion erstellen",
 
+		"item.auctionhouse.bid.owner": "§r§cYou are the owner",
+		/* TODO */
+		"item.auctionhouse.bid.bid": "§rBid",
+		/* TODO */
+		"item.auctionhouse.bid.bid.custom": "§rCustom Bid amount",
+		/* TODO */
+
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
 		"item.auctionhouse.lore.owner": "§r§eVerkäufer: §7{0}§r",
 		"item.auctionhouse.lore.lastBid": "§r§eLetztes Gebot: §7{0}§r",
@@ -99,6 +106,8 @@
 		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobaler-Mute §7- §cdeaktiviert",
 
 		"ui.title.selectPage": "Seite auswählen",
-		"ui.elements.selectPage.nextPage": "Nächste Seite"
+		"ui.elements.selectPage.nextPage": "Nächste Seite",
+		"ui.title.auctionhouse.bid.custom": "Bid custom amount."
+		/*TODO*/
 	}
 }

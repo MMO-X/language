@@ -51,12 +51,17 @@
 		"item.auctionhouse.create.startprice": "§r§eStart price",
 		"item.auctionhouse.create.create": "§r§aCreate Auction",
 
+		"item.auctionhouse.bid.owner": "§r§cYou are the owner",
+		"item.auctionhouse.bid.bid": "§rBid",
+		"item.auctionhouse.bid.bid.custom": "§rCustom Bid amount",
+
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
 		"item.auctionhouse.lore.owner": "§r§eSeller: §7{0}§r",
 		"item.auctionhouse.lore.lastBid": "§r§eLast bidder: §7{0}§r",
 		"item.auctionhouse.lore.expire.timestamp": "§r§eExpires at §a{0}",
 		"item.auctionhouse.lore.expire.left": "§r§d{0} left",
 		"item.auctionhouse.lore.price": "§r§ePrice: §a{CURRENCY}{0}",
+		"item.auctionhouse.lore.bid": "§r§eBid: §a{CURRENCY}{0}",
 
 		"gender.male": "Male",
 		"gender.female": "Female",
@@ -97,6 +102,7 @@
 		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobal-Mute §7- §cdisabled",
 
 		"ui.title.selectPage": "Select Page",
-		"ui.elements.selectPage.nextPage": "Next page"
+		"ui.elements.selectPage.nextPage": "Next page",
+		"ui.title.auctionhouse.bid.custom": "Bid custom amount."
 	}
 }
