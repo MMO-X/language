@@ -66,13 +66,13 @@
 		"gender.male": "Männlich",
 		"gender.female": "Weiblich",
 
-		"season.spring": "Spring",
+		"season.spring": "Frühling",
 		/*TODO*/
 		"season.spring.symbol": "",
-		"season.summer": "Summer",
+		"season.summer": "Sommer",
 		/*TODO*/
 		"season.summer.symbol": "☀",
-		"season.autumn": "Autumn",
+		"season.autumn": "Herbst",
 		/*TODO*/
 		"season.autumn.symbol": "🍁",
 		"season.winter": "Winter",
@@ -84,7 +84,7 @@
 		"race.demon": "Demon",
 		"race.dragon": "Drache",
 
-		"race.sub.demon.succubus": "Succubus",
+		"race.sub.demon.succubus": "Sukkubus",
 		"race.sub.elf.nature": "Natur Elf",
 		"race.sub.elf.dark": "Dunkler Elf",
 		"race.sub.elf.light": "Licht Elf",
