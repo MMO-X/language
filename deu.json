@@ -51,12 +51,9 @@
 		"item.auctionhouse.create.startprice": "§r§bStart Gebot",
 		"item.auctionhouse.create.create": "§r§bAuktion erstellen",
 
-		"item.auctionhouse.bid.owner": "§r§cYou are the owner",
-		/* TODO */
-		"item.auctionhouse.bid.bid": "§rBid",
-		/* TODO */
-		"item.auctionhouse.bid.bid.custom": "§rCustom Bid amount",
-		/* TODO */
+		"item.auctionhouse.bid.owner": "§r§cDu bist nicht der Besitzter!",
+		"item.auctionhouse.bid.bid": "§rBieten",
+		"item.auctionhouse.bid.bid.custom": "§rBenutzerdefinierter Gebotsbetrag",
 
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
 		"item.auctionhouse.lore.owner": "§r§eVerkäufer: §7{0}§r",
@@ -67,16 +64,12 @@
 		"gender.female": "Weiblich",
 
 		"season.spring": "Frühling",
-		/*TODO*/
 		"season.spring.symbol": "",
 		"season.summer": "Sommer",
-		/*TODO*/
 		"season.summer.symbol": "☀",
 		"season.autumn": "Herbst",
-		/*TODO*/
 		"season.autumn.symbol": "🍁",
 		"season.winter": "Winter",
-		/*TODO*/
 		"season.winter.symbol": "❄",
 
 		"race.human": "Mensch",
@@ -107,7 +100,6 @@
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",
-		"ui.title.auctionhouse.bid.custom": "Bid custom amount."
-		/*TODO*/
+		"ui.title.auctionhouse.bid.custom": "Benutzerdefinierter Gebotsbetrag."
 	}
 }
