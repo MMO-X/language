@@ -103,6 +103,8 @@
 
 		"ui.title.selectPage": "Select Page",
 		"ui.elements.selectPage.nextPage": "Next page",
-		"ui.title.auctionhouse.bid.custom": "Bid custom amount."
+		"ui.title.auctionhouse.bid.custom": "Bid custom amount.",
+
+		"x-security.message.ban.tooMuch": "§cYou were banned, because you were banned too much times."
 	}
 }
