@@ -100,7 +100,7 @@
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",
-		"ui.title.auctionhouse.bid.custom": "Benutzerdefinierter Gebotsbetrag."
+		"ui.title.auctionhouse.bid.custom": "Benutzerdefinierter Gebotsbetrag.",
 		
 		"x-security.message.ban.tooMuch": "§cDu wurdest gebannt, da du zu oft gebannt wurdest."
 	}
