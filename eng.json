@@ -98,8 +98,7 @@
 		"message.auctionhouse.bid.other": "{ARROW_DARK_AQUA} §e{0}§r§7 bid §e{1}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
 		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eYou bid §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
 		"message.skillLeveledUp": "{ANNOUNCE} {0} leveled up to {1}",
-		"message.globalmute.muted": "{ANNOUNCE} §eGlobal-Mute §7- §aenabled",
-		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobal-Mute §7- §cdisabled",
+		"message.quest.accepted": "§aAccepted quest: §e{0}",
 
 		"ui.title.selectPage": "Select Page",
 		"ui.elements.selectPage.nextPage": "Next page",

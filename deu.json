@@ -95,8 +95,8 @@
 		"message.auctionhouse.bid.other": "{ARROW_DARK_AQUA} §e{0}§r§7 bietet §e{1}{CURRENCY}§r§7 am §d{4}{7}x {2}§7.",
 		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eDu bietest §e{0}{CURRENCY}§r§7 am §d{4}{7}x {2}§7.",
 		"message.skillLeveledUp": "{ANNOUNCE} {0} hochgelevelt auf {1}",
-		"message.globalmute.muted": "{ANNOUNCE} §eGlobaler-Mute §7- §aaktiviert",
-		"message.globalmute.unmuted": "{ANNOUNCE} §eGlobaler-Mute §7- §cdeaktiviert",
+		"message.quest.accepted": "§aAccepted quest: §e{0}",
+		/* TODO */
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",
