@@ -9,6 +9,15 @@
 		"close": "§r§cClose§r",
 		"back": "§r§cBack§r",
 
+		"raw.health": "Health",
+		"raw.defense": "Defense",
+		"raw.mana": "Mana",
+		"raw.coins": "Coins",
+		"raw.race": "Race",
+		"raw.sub-race": "Sub-Race",
+		"raw.job": "Job",
+		"raw.gender": "Gender",
+
 		"rarity.common": "Common",
 		"rarity.uncommon": "Uncommon",
 		"rarity.rare": "Rare",
