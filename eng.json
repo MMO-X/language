@@ -1,6 +1,7 @@
 {
 	"name": "Englisch",
 	"locale": "eng",
+	"emoji": "🇺🇸",
 	"prefix": "§9MMOX §8> §7",
 	"currency": "$",
 	"contributors": ["xxAROX"],
