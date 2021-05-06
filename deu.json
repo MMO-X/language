@@ -112,6 +112,6 @@
 		"ui.elements.selectPage.nextPage": "Nächste Seite",
 		"ui.title.auctionhouse.bid.custom": "Benutzerdefinierter Gebotsbetrag.",
 		
-		"x-security.message.ban.tooMuch": "§cDu wurdest gebannt, da du zu oft gebannt wurdest."
+		"x-security.message.ban.tooMuch": "§cDu wurdest gebannt, da du dich mehrfach nicht an die Regeln gehalten hast."
 	}
 }
