@@ -38,6 +38,8 @@
 		"item.goToPage": "§r§bGo to §d{0}",
 
 		"item.topVotes": "§r§gTop §e{0}§g Voters",
+		"item.topVotes.format": "   {0} §8-> §7{1}",
+		"item.topVotes.format.self": "§e§l»§r§f {0} §8-> §7{1}",
 
 		"item.auctionhouse.browser": "Auction Browser",
 		"item.auctionhouse.view": "View",
