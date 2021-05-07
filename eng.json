@@ -37,6 +37,8 @@
 		"item.info": "§e--- §9{0}§7/§9{1} §e---",
 		"item.goToPage": "§r§bGo to §d{0}",
 
+		"item.topVotes": "§r§gTop §e{0}§g Voters",
+
 		"item.auctionhouse.browser": "Auction Browser",
 		"item.auctionhouse.view": "View",
 		"item.auctionhouse.create": "Create Auction",

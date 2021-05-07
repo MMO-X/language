@@ -4,7 +4,7 @@
 	"emoji": "🇩🇪",
 	"prefix": "§9MMOX §8> §7",
 	"currency": " EUR",
-	"contributors": ["JibixYT"],
+	"contributors": ["xxAROX","JibixYT"],
 
 	"values": {
 		"close": "§r§cSchließen§r",
@@ -36,6 +36,8 @@
 		"item.end": "§2Ende",
 		"item.info": "§e--- §9{0}§7/§9{1} §e---",
 		"item.goToPage": "§r§bGehe zu §d{0}",
+
+		"item.topVotes": "§r§gTop §e{0}§g Abstimmungen",
 
 		"item.auctionhouse.browser": "Auktion Browser",
 		"item.auctionhouse.view": "Angucken",
@@ -69,7 +71,10 @@
 		"item.auctionhouse.lore.rarity": "§r§f{0}{1}",
 		"item.auctionhouse.lore.owner": "§r§eVerkäufer: §7{0}§r",
 		"item.auctionhouse.lore.lastBid": "§r§eLetztes Gebot: §7{0}§r",
-		"item.auctionhouse.lore.expire": "§r§eEndet in §a{0}",
+		"item.auctionhouse.lore.expire.timestamp": "§r§eEndet in §a{0}",
+		"item.auctionhouse.lore.expire.left": "§r§d{0} übrig",
+		"item.auctionhouse.lore.price": "§r§ePreis: §a{0}{CURRENCY}",
+		"item.auctionhouse.lore.bid": "§r§eGebot: §a{0}{CURRENCY}",
 
 		"gender.male": "Männlich",
 		"gender.female": "Weiblich",
