@@ -114,6 +114,8 @@
 		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eDu bietest §e{0}{CURRENCY}§r§7 am §d{4}{7}x {2}§7.",
 		"message.skillLeveledUp": "{ANNOUNCE} {0} hochgelevelt auf {1}",
 		"message.quest.accepted": "§aQuest annehmen: §e{0}",
+		"message.keyAlreadyExists": "{ERROR} {0} existiert bereits",
+		"message.alreadyExists": "{ERROR} Existiert bereits",
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",

@@ -114,6 +114,8 @@
 		"message.auctionhouse.auction.bid": "{ARROW_DARK_AQUA} §eYou bid §e{0}{CURRENCY}§r§7 on §d{4}{7}x {2}§7.",
 		"message.skillLeveledUp": "{ANNOUNCE} {0} leveled up to {1}",
 		"message.quest.accepted": "§aAccepted quest: §e{0}",
+		"message.keyAlreadyExists": "{ERROR} {0} already exists",
+		"message.alreadyExists": "{ERROR} Already exists",
 
 		"ui.title.selectPage": "Select Page",
 		"ui.elements.selectPage.nextPage": "Next page",
