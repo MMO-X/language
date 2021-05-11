@@ -9,6 +9,8 @@
 	"values": {
 		"close": "§r§cSchließen§r",
 		"back": "§r§cZurück§r",
+		"hub": "§r§4Hub§r",
+		"backToHub": "§r§4Zurück zum Hub§r",
 
 		"raw.health": "Herzen",
 		"raw.defense": "Verteidigung",

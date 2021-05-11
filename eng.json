@@ -9,6 +9,8 @@
 	"values": {
 		"close": "§r§cClose§r",
 		"back": "§r§cBack§r",
+		"hub": "§r§4Hub§r",
+		"backToHub": "§r§4Back to Hub§r",
 
 		"raw.health": "Health",
 		"raw.defense": "Defense",
