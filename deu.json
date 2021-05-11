@@ -19,6 +19,9 @@
 		"raw.job": "Job",
 		"raw.gender": "Geschlecht",
 
+		"reason.chatMessage.caps": "Großbuchstaben",
+		"reason.chatMessage.sameMessage": "Wiederholender Text",
+
 		"rarity.common": "Gewöhnlich",
 		"rarity.uncommon": "Ungewöhnlich",
 		"rarity.rare": "Selten",
@@ -116,6 +119,8 @@
 		"message.quest.accepted": "§aQuest annehmen: §e{0}",
 		"message.keyAlreadyExists": "{ERROR} {0} existiert bereits",
 		"message.alreadyExists": "{ERROR} Existiert bereits",
+		"message.messageWereNotSent": "{ERROR} Nachricht konnte nicht gesendet werden",
+		"message.messageWereNotSent.reason": "{ERROR} Nachricht konnte nicht gesendet werden, wegen §f\"§c{0}§f\"",
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",
