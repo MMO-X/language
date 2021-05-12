@@ -20,6 +20,7 @@
 		"raw.sub-race": "Sub-Race",
 		"raw.job": "Job",
 		"raw.gender": "Gender",
+		"raw.season": "Season",
 
 		"reason.chatMessage.caps": "Caps",
 		"reason.chatMessage.sameMessage": "Repeating Text",
