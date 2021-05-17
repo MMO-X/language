@@ -58,7 +58,7 @@
 		"item.end": "§2Ende",
 		"item.info": "§e--- §9{0}§7/§9{1} §e---",
 		"item.goToPage": "§r§bGehe zu §d{0}",
-
+		"item.skills": "Fähigkeiten",
 		"item.topVotes": "§r§gTop §e{0}§g Abstimmungen",
 		"item.topVotes.format": "   {0} §8-> §7{1}",
 		"item.topVotes.format.self": "§e§l»§r§f {0} §8-> §7{1}",
