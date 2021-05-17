@@ -140,6 +140,7 @@
 		"message.alreadyExists": "{ERROR} Existiert bereits",
 		"message.messageWereNotSent": "{ERROR} Nachricht konnte nicht gesendet werden",
 		"message.messageWereNotSent.reason": "{ERROR} Nachricht konnte nicht gesendet werden, wegen §f\"§c{0}§f\"",
+		"message.questDelay": "{WARNING} Komm in §e{0} §7wieder",
 
 		"ui.title.selectPage": "Seite auswählen",
 		"ui.elements.selectPage.nextPage": "Nächste Seite",

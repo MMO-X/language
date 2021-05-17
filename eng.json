@@ -140,6 +140,7 @@
 		"message.alreadyExists": "{ERROR} Already exists",
 		"message.messageWereNotSent": "{ERROR} Message could not be sent",
 		"message.messageWereNotSent.reason": "{ERROR} Message could not be sent, because §f\"§c{0}§f\"",
+		"message.questDelay": "{WARNING} Come back in §e{0}",
 
 		"ui.title.selectPage": "Select Page",
 		"ui.elements.selectPage.nextPage": "Next page",
