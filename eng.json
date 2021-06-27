@@ -63,8 +63,8 @@
 		"item.topVotes.format": "   {0} §8-> §7{1}",
 		"item.topVotes.format.self": "§e§l»§r§f {0} §8-> §7{1}",
 
+		"item.dailyRewards": "Daily Rewards",
 		"item.dailyReward.normal": "Daily Reward",
-		"item.dailyReward.event": "Event Reward",
 		"item.dailyReward.promoter": "Promoter Reward",
 		"item.dailyReward.staff": "Staff Reward",
 		"item.dailyReward.partner": "Partner Reward",
